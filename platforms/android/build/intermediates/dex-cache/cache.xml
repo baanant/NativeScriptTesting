@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.0.1_76bf5008a4beba1ddb16519c74e71e4d13f1c69f.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.0.1_c1c369454f9c9d359a14ffecb157b780a1258257.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.0.1_69990fa7e6028e491114e47a1ed4b9ff9942cb69.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_2b0ecaa1b6755c57c507e0ffd79eca233d36c95b.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.0.1_e190f4e0ef105f6613a9cbedfcf2fbabc4fd096f.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.0.1_12ca08891cce2922d464ed5a2bf67371d9d0eeb8.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.0.1_b4d0ee0a8150c9f87484c6958285f4619e1bddf9.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.0.1_6d2ff62ddf8ff9a755ca021434660f82e6f55340.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\Groceries-runtime-unspecified_c7f88a29700a480e17e0b135e6a79b187072ecc3.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_e4e2cc50a8a349fd41cf2266704e439e88290f84.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.0.1_519e092e528fa1110eda6d8b032ff8e3c67b815e.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.0.1_d32016c280648c3975b79dc6a4ec059fb66b38df.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.0.1_79bb9867d3b1435fd2f35f82c3098d0b153835dc.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_7c9ea81db5e8e6709172e1a84cb3d0daa6d751aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\baana_000\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.0.1_cb5e54f79522d544569c77dedc908ab9543e70e2.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_ae67e71e37f79a06c718bbed86f71ca9c95b8c39.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_94a7077c290b2c180a5742cd409da987d1ba22f3.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_e3da6213007c129c87544d5be9f2253196fd5828.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.0.1_0f1d114edc0b72b533079f1391024a0fa47bdf1d.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_8eef4018e77336aa4425b096e41ae51fca248e4e.jar" />
+    </item>
+    <item
+        jar="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Development\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.0.1_6c77c56d93a8e6ebc38ec41abf1a32e8367d5712.jar" />
+    </item>
+
+</items>
